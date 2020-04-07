@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="490dd1bd-9e43-4285-aa97-55a5887e6da4" name="Default Changelist" comment="" />
+    <list default="true" id="490dd1bd-9e43-4285-aa97-55a5887e6da4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1USdHgJXx9YIJnefDlVcOsClok9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -40,8 +46,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test2">
-    <configuration name="EngFreTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Test1">
+    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,12 +55,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/WordFrequency" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/ObjectTest" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/WordFrequency/EngFreTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ObjectTest/Test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MatchTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,12 +77,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/chapter2" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Test/MatchTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter2/Test3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SeedPW" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/chapter2" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Test/SeedPW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter2/Test4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/chapter2" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Test/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter2/Test5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/chapter2" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Test/Test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/chapter2/Test6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test2" />
-        <item itemvalue="Python.MatchTest" />
-        <item itemvalue="Python.EngFreTest" />
-        <item itemvalue="Python.SeedPW" />
-        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.Test1" />
+        <item itemvalue="Python.Test6" />
+        <item itemvalue="Python.Test5" />
+        <item itemvalue="Python.Test4 (1)" />
+        <item itemvalue="Python.Test3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -191,29 +197,56 @@
       <workItem from="1584599835943" duration="218000" />
       <workItem from="1584600231656" duration="1762000" />
       <workItem from="1584602009570" duration="1777000" />
+      <workItem from="1585031957835" duration="107000" />
+      <workItem from="1585033726198" duration="5514000" />
+      <workItem from="1585721126852" duration="1822000" />
+      <workItem from="1585893163542" duration="4683000" />
+      <workItem from="1586222264766" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/untitled2$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1575453066898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/python_tutorials$FormatTest.coverage" NAME="FormatTest Coverage Results" MODIFIED="1584601610788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Test" />
     <SUITE FILE_PATH="coverage/python_tutorials$Test.coverage" NAME="Test Coverage Results" MODIFIED="1584602463095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Test" />
     <SUITE FILE_PATH="coverage/untitled2$DigitalOperation.coverage" NAME="DigitalOperation Coverage Results" MODIFIED="1575604313683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/python_tutorials$NumConvent.coverage" NAME="NumConvent Coverage Results" MODIFIED="1584600335533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test4.coverage" NAME="Test4 Coverage Results" MODIFIED="1585036532952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter1" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1585895662941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/ObjectTest" />
+    <SUITE FILE_PATH="coverage/python_tutorials$SquareDraw__1_.coverage" NAME="SquareDraw (1) Coverage Results" MODIFIED="1584600862148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Turtle-Test" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test6.coverage" NAME="Test6 Coverage Results" MODIFIED="1585894792601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter2" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test3.coverage" NAME="Test3 Coverage Results" MODIFIED="1585035544375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter1" />
+    <SUITE FILE_PATH="coverage/untitled2$TempConvent.coverage" NAME="TempConvent Coverage Results" MODIFIED="1575443305333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/python_tutorials$KeleTest.coverage" NAME="KeleTest Coverage Results" MODIFIED="1584602319893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/RecursionTest" />
+    <SUITE FILE_PATH="coverage/untitled2$Test.coverage" NAME="Test Coverage Results" MODIFIED="1583822461658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test1__1_.coverage" NAME="Test1 (1) Coverage Results" MODIFIED="1585723408059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter2" />
+    <SUITE FILE_PATH="coverage/untitled2$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1575453066898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/python_tutorials$FormatTest.coverage" NAME="FormatTest Coverage Results" MODIFIED="1584601610788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Test" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test3__1_.coverage" NAME="Test3 (1) Coverage Results" MODIFIED="1585893547449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter2" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test5.coverage" NAME="Test5 Coverage Results" MODIFIED="1585894353484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter2" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test2__1_.coverage" NAME="Test2 (1) Coverage Results" MODIFIED="1585034731133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter1" />
     <SUITE FILE_PATH="coverage/untitled2$SquareDraw.coverage" NAME="SquareDraw Coverage Results" MODIFIED="1577168406898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/python_tutorials$Progressbar.coverage" NAME="Progressbar Coverage Results" MODIFIED="1584601463326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Test" />
-    <SUITE FILE_PATH="coverage/python_tutorials$SquareDraw__1_.coverage" NAME="SquareDraw (1) Coverage Results" MODIFIED="1584600862148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Turtle-Test" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test4__1_.coverage" NAME="Test4 (1) Coverage Results" MODIFIED="1585893934550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter2" />
     <SUITE FILE_PATH="coverage/python_tutorials$SeedPW.coverage" NAME="SeedPW Coverage Results" MODIFIED="1584602609279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Test" />
     <SUITE FILE_PATH="coverage/python_tutorials$PolygonDraw.coverage" NAME="PolygonDraw Coverage Results" MODIFIED="1584601069093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Turtle-Test" />
-    <SUITE FILE_PATH="coverage/untitled2$TempConvent.coverage" NAME="TempConvent Coverage Results" MODIFIED="1575443305333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/python_tutorials$MatchTest.coverage" NAME="MatchTest Coverage Results" MODIFIED="1584603109276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Test" />
     <SUITE FILE_PATH="coverage/python_tutorials$EngFreTest.coverage" NAME="EngFreTest Coverage Results" MODIFIED="1584602909173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/WordFrequency" />
     <SUITE FILE_PATH="coverage/untitled2$TextProgressBar.coverage" NAME="TextProgressBar Coverage Results" MODIFIED="1575855704392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/python_tutorials$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1584603739259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Test" />
-    <SUITE FILE_PATH="coverage/python_tutorials$KeleTest.coverage" NAME="KeleTest Coverage Results" MODIFIED="1584602319893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/RecursionTest" />
-    <SUITE FILE_PATH="coverage/untitled2$Test.coverage" NAME="Test Coverage Results" MODIFIED="1583822461658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1585723718779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter2" />
   </component>
 </project>
