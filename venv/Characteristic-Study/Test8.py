@@ -24,4 +24,3 @@ p1 = Person('Tom', 18)
 p2 = Person('Tom', 20)
 
 print(p1 == p2)
-
