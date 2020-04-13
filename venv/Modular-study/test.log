@@ -1,0 +1,6 @@
+2020-04-09 16:27:22,163 - MainThread - __main__ - <module> - INFO - 这是INFO级别信息
+2020-04-09 16:27:22,165 - MainThread - __main__ - <module> - WARNING - 这是WARNING级别信息
+2020-04-09 16:27:22,165 - MainThread - __main__ - <module> - ERROR - 这是ERROR级别信息
+2020-04-09 16:27:22,165 - MainThread - __main__ - <module> - CRITICAL - 这是CRITICAL级别信息
+2020-04-09 16:27:22,165 - MainThread - __main__ - <module> - INFO - 调用funlog函数
+2020-04-09 16:27:22,165 - MainThread - __main__ - funlog - INFO - 进入funlog函数
