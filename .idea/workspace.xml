@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="490dd1bd-9e43-4285-aa97-55a5887e6da4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Modular-study/Test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Modular-study/Test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/RE-Study/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/RE-Study/Test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +48,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test7">
-    <configuration name="Test3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Test">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,12 +57,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Modular-study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/RE-Study" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Modular-study/Test3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/RE-Study/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Test7" />
         <item itemvalue="Python.Test6" />
         <item itemvalue="Python.Test5 (1)" />
         <item itemvalue="Python.Test4 (1)" />
-        <item itemvalue="Python.Test3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +208,7 @@
       <workItem from="1586326411401" duration="2724000" />
       <workItem from="1586399323228" duration="4180000" />
       <workItem from="1586422387856" duration="1176000" />
+      <workItem from="1586759440485" duration="1233000" />
     </task>
     <servers />
   </component>
@@ -228,7 +229,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_tutorials$Test.coverage" NAME="Test Coverage Results" MODIFIED="1584602463095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Test" />
+    <SUITE FILE_PATH="coverage/python_tutorials$Test.coverage" NAME="Test Coverage Results" MODIFIED="1586759999014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/RE-Study" />
     <SUITE FILE_PATH="coverage/untitled2$DigitalOperation.coverage" NAME="DigitalOperation Coverage Results" MODIFIED="1575604313683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/python_tutorials$NumConvent.coverage" NAME="NumConvent Coverage Results" MODIFIED="1584600335533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/python_tutorials$Test4.coverage" NAME="Test4 Coverage Results" MODIFIED="1586242738234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/ExceptionHandling-Study" />
